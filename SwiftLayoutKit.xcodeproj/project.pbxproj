@@ -328,9 +328,11 @@
 				TargetAttributes = {
 					C9ABADB51AC420F3000E6735 = {
 						CreatedOnToolsVersion = 6.2;
+						LastSwiftMigration = 0810;
 					};
 					C9ABADC01AC420F3000E6735 = {
 						CreatedOnToolsVersion = 6.2;
+						LastSwiftMigration = 0810;
 					};
 					C9ABADEC1AC42343000E6735 = {
 						CreatedOnToolsVersion = 6.2;
@@ -571,6 +573,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -587,6 +590,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
@@ -604,6 +608,7 @@
 				INFOPLIST_FILE = SwiftLayoutKitTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -617,6 +622,7 @@
 				INFOPLIST_FILE = SwiftLayoutKitTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
